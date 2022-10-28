@@ -5,6 +5,6 @@ Mini projeto de chat P2P para praticar rede P2P e broadcast.
 
 - Abra os terminais que você quer executar como chat
 - Execute: ``` set PORT=numero_da_porta ```
-- E por fim ``` node index.js ```
+- E por fim ``` node index.js localhost:primeira_porta ```
 
 ### Tutorial seguido: [Criando chat P2P com NodeJs](https://medium.com/@gregorygregio/criando-chat-p2p-com-nodejs-120bf7addb7c)
